@@ -17,7 +17,7 @@
 *.bbl
 
 # PDF (optional — depends on your workflow)
-*.pdf
+# *.pdf
 
 # latexmk
 latexmk.out
