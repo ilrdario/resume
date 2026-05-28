@@ -1,0 +1,23 @@
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+*.bcf
+*.run.xml
+*.blg
+*.bbl
+
+# PDF (optional — depends on your workflow)
+*.pdf
+
+# latexmk
+latexmk.out
